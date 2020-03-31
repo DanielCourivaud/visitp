@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.5.1/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_536d65e8bd8c40b58538cb17c95cd605 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_536d65e8bd8c40b58538cb17c95cd605" ></div>
+        
+</body>
+<script>    
+    
+            var map_536d65e8bd8c40b58538cb17c95cd605 = L.map(
+                "map_536d65e8bd8c40b58538cb17c95cd605",
+                {
+                    center: [48.8632543, 2.3488009],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 14,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d2e002d1e6b84b85b62f4d98a2693469 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 20, "maxZoom": 20, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_536d65e8bd8c40b58538cb17c95cd605);
+        
+    
+            var marker_535a6fab45b74be5ab2d622e9f43a3c4 = L.marker(
+                [48.863714, 2.348976],
+                {}
+            ).addTo(map_536d65e8bd8c40b58538cb17c95cd605);
+        
+    
+            var icon_06985b610d224cd791554ed544dd08eb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_535a6fab45b74be5ab2d622e9f43a3c4.setIcon(icon_06985b610d224cd791554ed544dd08eb);
+        
+    
+        var popup_fa3acd7a03ec4ca99303e08efeda68b8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_04db7b97f8e1424c81d73a8d198edafa = $(`<div id="html_04db7b97f8e1424c81d73a8d198edafa" style="width: 100.0%; height: 100.0%;">Métro Etienne Marcel</div>`)[0];
+            popup_fa3acd7a03ec4ca99303e08efeda68b8.setContent(html_04db7b97f8e1424c81d73a8d198edafa);
+        
+
+        marker_535a6fab45b74be5ab2d622e9f43a3c4.bindPopup(popup_fa3acd7a03ec4ca99303e08efeda68b8)
+        ;
+
+        
+    
+    
+            var marker_e444d83024dd4dcfbb50242569916048 = L.marker(
+                [48.864139, 2.348002],
+                {}
+            ).addTo(map_536d65e8bd8c40b58538cb17c95cd605);
+        
+    
+            var icon_579f666d8731406f8fcdd3b8d63a59bf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e444d83024dd4dcfbb50242569916048.setIcon(icon_579f666d8731406f8fcdd3b8d63a59bf);
+        
+    
+        var popup_e5dafeac55cb404e85a0512a792ae53a = L.popup({"maxWidth": "100%"});
+
+        
+            var html_535f57a9dd2648fa8c732ad36f87bf88 = $(`<div id="html_535f57a9dd2648fa8c732ad36f87bf88" style="width: 100.0%; height: 100.0%;">Tour Jean Sans Peur</div>`)[0];
+            popup_e5dafeac55cb404e85a0512a792ae53a.setContent(html_535f57a9dd2648fa8c732ad36f87bf88);
+        
+
+        marker_e444d83024dd4dcfbb50242569916048.bindPopup(popup_e5dafeac55cb404e85a0512a792ae53a)
+        ;
+
+        
+    
+    
+            var marker_7386286b7216465e803aa81212effe7c = L.marker(
+                [48.865508, 2.342985],
+                {}
+            ).addTo(map_536d65e8bd8c40b58538cb17c95cd605);
+        
+    
+            var icon_1e5720f79a0f471e8e6700b10c5703b0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_7386286b7216465e803aa81212effe7c.setIcon(icon_1e5720f79a0f471e8e6700b10c5703b0);
+        
+    
+        var popup_43436ef2877c48b0af60cf3b5dd29cf5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4bc110cfbf9245e981af6da4878ad523 = $(`<div id="html_4bc110cfbf9245e981af6da4878ad523" style="width: 100.0%; height: 100.0%;">immeuble donnant sur trois rues</div>`)[0];
+            popup_43436ef2877c48b0af60cf3b5dd29cf5.setContent(html_4bc110cfbf9245e981af6da4878ad523);
+        
+
+        marker_7386286b7216465e803aa81212effe7c.bindPopup(popup_43436ef2877c48b0af60cf3b5dd29cf5)
+        ;
+
+        
+    
+</script>

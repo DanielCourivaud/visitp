@@ -1,0 +1,149 @@
+↑ tout droit
+⤒ tout droit jusqu'à
+⇞ traverser
+↱ tourner à droite
+↰ tourner à gauche
+↓ faire demi tour
+⤓ faire demi tour jusqu'à
+↔ aller retour
+↖
+↗
+↘
+↙
+& à voir dans l'endroit courant
+&& à voir depuis l'endroit courant
+@ personnage
+hdp panneau histoire de paris
+
+
+
+
+
+# Du bourg Saint Médard à l'Université
+
+métro Censier Daubenton
+rue Daubenton
+place Bernard Halpern, ancien marché des Patriarches
+rue de Candolle
+rue Censier
+rue Mouffetard, église Saint Médard, #122 [A la bonne source], #116 façade du Café Mouffetard, #103 siège de Paris, #69 Au vieux Chêne, #60 Fontaine du Pot de Fer, #14 Au nègre joyeux, #1 Maison de la Pomme de pain faux historiques
+place de la Contrescarpe
+rue du Cardinal Lemoine, #74 Hemingway, #65 collège des Ecossais, #68-64-62 enceinte Philippe Auguste
+rue Clovis, #1 terrain au collège des Ecossais, #5 enceinte Philippe Auguste
+église Saint Etienne du Mont, dernier jubé renaissance de Paris, 
+rue Saint Etienne du Mont, jardins de l'école Polytechnique
+rue de la Montagne Sainte Geneviève
+Rue Monge, Saint Nicolas du Chardonnet, Mutualité, 
+rue Saint Victor
+rue de Poissy, #18-24 collège des Bernardins
+quai de la Tournelle, #47 Hotel de Miramion, 
+rue de Bièvre
+boulevard Saint Germain
+rue Frédéric Sauton
+rue Maitre Albert, #15 
+rue des Grands Degrés, #6 mascarons
+rue de la Bucherie, #13-15 ancienne faculté de médecine de Paris
+rue de Fouarre
+square René Viviani, plus vieil arbre de Paris
+Eglise Saint Julien le Pauvre
+rue de la Bucherie, Shakespeare & Co, fondée en 1921, Hemingway, James Joyce, Scott Fitzgerald, Man ray
+rue du Petit Pont
+rue Galande, les trois mailletz jazz
+rue de la Parcheminerie
+rue des Prêtres Saint Severin
+église Saint Severin
+rue Saint Severin
+rue de la Harpe
+
+
+
+
+
+
+
+# Faubourg Saint Marcel
+
+@ Métro Saint Marcel
+$ [Boulevard de l'Hopital]
+& [Hôpital de la Salpêtrière](/wiki/Hôpital_de_la_Salpêtrière){à l'emplacement du petit arsenal, où l'on fabriquait la poudre pour les munitions, surnommé la « Salpêtrière ». Les travaux de construction débutèrent en 1658, et en 1666, faute d'argent, ils furent interrompus. En 1669, ils furent repris sous les ordres de Louis Le Vau. La Salpêtrière fut le premier et le plus grand des établissements de l'Hôpital général de Paris. Destiné au « renfermement » des mendiants. En 1684, on ajouta une prison, destinée à 300 femmes, condamnées pour faits de droit commun et prostitution. Entre 1663 et 1673 plus de 770 jeunes femmes parties de France débarquèrent à Québec, envoyées par Louis XIV pour prendre mari et contribuer au peuplement de la Nouvelle-France.}
+& [Chapelle Saint-Louis de la Salpêtrière](/wiki/Chapelle_Saint-Louis_de_la_Salpêtrière){construite en 1669, à la demande de Louis XIV par Louis Le Vau, sous le contrôle de Jean-Baptiste Colbert contrôleur général des finances et surintendant des bâtiments du roi}
+↑ rue des wallons
+↱ rue rené panhard
+& [institut de paleontologie humaine](/wiki/Institut_de_paléontologie_humaine){Créé en 1910 par Albert Ier de Monaco. Il est hébergé dans un bâtiment édifié en 1912 par l'architecte Emmanuel Pontremoli à l'emplacement de l'ancien marché aux chevaux. Ce bâtiment est orné de bas-reliefs du sculpteur Constant Roux. Troisième plus ancienne fondation scientifique française, après l'Institut Pasteur et l'Institut océanographique de Paris}
+⤓ rue des wallons ↱
+⤒ rue jules breton
+↱ rue jules breton
+& [loge maçonnique mixte du droit humain](/wiki/Le_Droit_humain_(France)){La Fédération française du « Droit humain », fondée en 1901, est la première et la plus ancienne fédération de l'Ordre maçonnique mixte international « le Droit humain ». Fondée pour permettre l'accession des femmes en franc-maçonnerie}, @[Maria Deraismes](/wiki/Maria_Deraismes){1828-1894. Première femme initiée à la franc-maçonnerie en France, à la fin du XIXe siècle}
+⤒ boulevard saint Marcel ⇞ ↰
+↱ rue geoffroy saint hilaire
+& #5, [pavillon de surveillance du marché aux chevaux](https://fr.wikipedia.org/wiki/March%C3%A9_aux_chevaux){Un marché aux chevaux existait vers 1475 dans l'actuel 6e arrondissement de Paris.Il occupe ensuite divers emplacements. Le batiment date de 1787.}
+! hdp
+↰ rue du fer à moulin
+& [rue des fossés saint marcel](){enceinte du bourg médiéval}
+& [rue de la clef](){franchissait la Bièvre}
+& #[22-36], {maisons anciennes basses}
+& [square theodore monod](){fresque en céramique en bas-relief "Les Boulangers" réalisée en 1897 pour être montrée à l'Exposition universelle de 1900}, @[théodore monod](/wiki/Théodore_Monod)
+↰ rue scipion
+& #13, [hotel scipion](/wiki/Hôtel_Scipion){première bâtisse construite en brique et pierre de Paris, Hôtel particulier jusqu'en 1609, transformé en hospice en 1612, maison d'accouchement et d'allaitement en 1656, boulangerie des hôpitaux de Paris de 1793 à 1974, musée, aujourd'hui administration de l'Assistance publique - Hôpitaux de Paris}
+! hdp
+⤓ rue du fer à moulin ↰
+⤒ avenue des gobelins ⇞
+↗ rue claude bernard
+↰ rue broca
+& [rue broca](){longeait la Bièvre, côté impair}, [contes de la rue Broca](wiki/Contes_de_la_rue_Broca)
+⤒ boulevard arago ⇞
+↖ rue de julienne
+& [couvent des cordelières](/wiki/Couvent_des_Cordelières){vestiges du réfectoire gothique}
+⤓ boulevard arago ↰
+& [cité fleurie](/wiki/Cité_fleurie){29 chalets blancs à pans de bois construits entre 1878 et 1888 avec des matériaux provenant de l'Exposition universelle de 18781. Celui-ci a récupéré les matériaux pour réaliser vingt-neuf chalets blancs à pans de bois. Ateliers d'artistes. Sauvée d'une opération immobilière en 1971, classée MH en 1994}, @[paul Gauguin], @[Amédée Modigliani], @[Henri Cadiou](https://www.henricadiou.com/trompeloeil), @[César Domela]
+! hdp
+↰ square henri cadiou
+& [fontaine sculpture de César Domela]
+& [street art : tigre]
+⤒ rue leon maurice nordmann ↰
+& #147, [cité verte](/wiki/Cité_verte_(Paris)){cité d'artistes, classée MH en 1979}
+& #141, [Square Albin-Cachot](/wiki/Square_Albin-Cachot){immeubles construits pour faciliter l'hébergement des anciens combattants de la Première Guerre mondiale. Occupants célèbres : Georges Charpak, Alice Sapritch, Renaud. Scènes du film Belle de jour de Luis Buñuel avec Catherine Deneuve}
+⤒ rue des tanneries ↱
+& #4, [immeuble remarquable]
+& #9, [MissTic, la fraternité est une pensée vivante]
+& #15, [portail]
+& #28, [couvent des filles anglaises](/wiki/Couvent_des_Anglaises){refuge des catholiques persécutées en Angleterre}
+! hdp
+⤒ rue du champ de l'alouette ↰
+⤒ rue des cordelières
+↑ rue des cordelières
+& #29, [palais du Peuple armée du Salut]{Le Palais du Peuple s’est construit dès 1925, en tant qu’Hôtel Social, pour accueillir prioritairement les personnes à très bas revenus.}, @[Armée du Salut](/wiki/Armée_du_salut)
+! hdp
+⤓ square rené le gall ↰
+& #147, [square rené le gall](){à l'emplacement de l'île aux Singes, formée par les bras de la Bièvre, sur les anciennes dépendances du Mobilier national et de la Manufacture des Gobelins. L'origine du nom de cette île est peut-être liée aux singes laissés en liberté par les bateleurs ou serait le terme argotique synonyme de patrons donnés aux propriétaires des lieux par les ouvriers des tanneries. Le lit d'un des deux bras de l'ancienne rivière a été matérialisé par une allée de peupliers (remplacés ensuite par des charmes)}
+⤒ rue emile deslandres ↱
+& #2, [fresque], @[seth](/wiki/Julien_Malland_(Seth))
+⤒ rue berbier du mets ↰
+& [ancien lit de la Bièvre, recouverte en 1912]
+&& [Église réformée de Port-Royal](/wiki/Église_réformée_de_Port-Royal){21 boulevard Arago. Construite en 1898, elle est rattachée à l'Église protestante unie de France}
+⤒ rue des gobelins ↱
+& #17-19, [maisons XVI](){vestiges du chateau de la Reine Blanche}
+! hdp
+& #3, [hôtel Mascarini](/wiki/Hôtel_Mascarini){En 1443 la famille Gobelin s'installe pour la première fois sur les bords de la Bièvre pour exploiter un procédé de teinture. L'ensemble des bâtiments actuels a été construit au XVIIe siècle dans le quartier Croulebarbe}
+! hdp
+⤓ rue gustave geffroy ↰
+@[Gustave Geffroy](/wiki/Gustave_Geffroy){Membre fondateur de l'Académie Goncourt}
+& [hôtel de la Reine Blanche](/wiki/Îlot_de_la_Reine_Blanche){C'est la reine Marguerite de Provence, veuve de saint Louis qui fit construire en 1290 un manoir au bord de la Bièvre. Cette résidence est appelée au XIVe siècle « hostel de la Reyne Blanche », du fait que les reines françaises veuves s'habillaient en blanc. Bâtiments des XVe, XVIe et XVIIe siècles. }
+⤒ rue berbier du mets ↰
+& [arrière de la Manufacture des Gobelins, abside en saillie de la Chapelle](/wiki/Manufacture_des_Gobelins){créée en avril 1601 sous l'impulsion d'Henri IV}
+& [Mobilier National](/wiki/Mobilier_national){Henri IV crée le Garde-Meuble royal en 1604. Aujourd'hui, il a pour mission de meubler les bâtiments officiels de la république française auxquels il prête certains des objets de sa collection. Construit par Auguste Perret en 1935-1936}
+@ [Henri IV](/wiki/Henri_IV_(roi_de_France))
+↑ rue de Croulebarbe
+& #33, [Tour Albert](/wiki/Tour_Albert){premier gratte-ciel de logements à Paris. 67 mètres de haut, 23 étages, 110 appartements. Structure porteuse composée de tubes d'acier creux remplis de béton. Le 6e étage est une terrasse, initialement prévue pour être ouverte au public. MH1994}
+! hdp
+& #43, [l'ancien cabaret de madame Grégoire, guinguette fréquentée par Hugo, Musset, Lamartine, Nerval… ]()
+↰ rue des reculettes
+↰ rue Abel Hovelacque
+@ [Abel Hovelacque](/wiki/Abel_Hovelacque){linguiste, anthropologue et homme politique. Un des artisans de la naissance du Parti radical. 1843-1896. }
+↱ avenue de la soeur Rosalie
+@ [Rosalie Rendu](/Rosalie_Rendu){Soeur Rosalie, 1786-1856, est une religieuse de la congrégation des Filles de la charité de Saint-Vincent-de-Paul béatifiée en 2003. Au centre du mouvement de charité qui caractérisa Paris et la France dans la première moitié du XIXe siècle.}
+! hdp
+⤒ place d'Italie
+$ [Place d'Italie](/wiki/Place_d'Italie_(Paris)){point de départ de l'ancienne voie romaine reliant Lutèce à Lugdunum (Lyon) dont le tracé est celui de l'actuelle avenue de Choisy et de la route de Fontainebleau (avenue d'Italie) aménagée sous François Ier. Deux sorties de métro Guimard, sont inscrites à l'inventaire supplémentaire des monuments historiques}
+& [Mairie du 13e arrondissement de Paris](/wiki/Mairie_du_13e_arrondissement_de_Paris){Le bâtiment a été conçu par l'architecte Paul-Émile Bonnet et construit entre 1873 et 1877.}
+
