@@ -44,4 +44,11 @@ https://www.pavillon-arsenal.com/fr/documentation/11096-guide-paris-archi.html
 [Paris en Marches](http://50ans.apur.org/data/b4s3_home/fiche/90/08_paris_en_marches_45f4f.pdf)
 
 
+# Installation
+
+## Mongo
+```
+docker run -d -p 27017:27017 -v ~/data:/data/db mongo
+```
+
 
