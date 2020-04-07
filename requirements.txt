@@ -1,0 +1,4 @@
+pymongo
+flask
+wtforms
+flask_wtf
