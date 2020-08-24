@@ -87,12 +87,24 @@ class Street():
 
         
     def order_troncons(self):
+        # la tronçon sont ordonnées par les adresses impaires (arbitraire)
         l = sorted(self.troncons, key = lambda t:max(t.left_side))
+
+        # on recherche les adresses impaires invalides
         not_left_valids = [ t for t in self.troncons if not t.is_left_valid() ]
 
-        for t in not_left_valids:
-            m = max(t.right_side)
-            print(t, m)
+        # pour chacun des tronçons impairs invalides
+        # on recherche l'adresse paire et on l'insère dans la liste
+
+        for tnv in not_left_valids:
+            print("tnv = ", tnv)
+            m = max(tnv.right_side)
+            if m%2 != 0 : continue
+            for index,t in enumerate(l):
+                print("index = ", index)
+                if m > max(t.right_side) : continue
+                l.insert(index, tnv)
+            # print(t, m)
 
 
         return l
@@ -119,9 +131,8 @@ def main():
     street_key = "ruedecharonne"
     s = Street(street_key)
     print(s)
-    for t in s.troncons:
-        if t.is_right_valid(): 
-            print(t.limites)
+    # for t in s.troncons:
+    #     print(t.limites)
 
 
 if __name__ == "__main__":

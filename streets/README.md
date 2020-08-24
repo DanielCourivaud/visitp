@@ -16,6 +16,10 @@ http://opendata.apur.org/
 ...
 [https://fr.wikipedia.org/wiki/Liste_des_voies_du_20e_arrondissement_de_Paris](https://fr.wikipedia.org/wiki/Liste_des_voies_du_20e_arrondissement_de_Paris)
 
+Le scraping Beautiful Soup est complexe à cause du manque de structuration des pages ci dessus.
+
+Les fichiers `voies_arr_xx.txt` ont été extraits manuellement.
+
 L'extraction se fait à partir du fichier `get_streets_from_wkpd.py`. Le fichier `data\c_streets_from_wkpd.json` est produit.
 
 

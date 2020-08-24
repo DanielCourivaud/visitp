@@ -46,9 +46,30 @@ https://www.pavillon-arsenal.com/fr/documentation/11096-guide-paris-archi.html
 
 # Installation
 
+Crée le container (une seule fois)
 ## Mongo
 ```
-docker run -d -p 27017:27017 -v ~/data:/data/db mongo
+docker run -d -p 27017:27017 --name=mongo -v ~/Documents/visitp/db:/data/db mongo
 ```
+
+# Lancement
+Démarre le container 
+```
+sudo docker start mongo
+```
+
+Supprime le container 
+sudo docker rm -f mongo
+
+
+Liste tous les containers présents sur la machiner
+sudo docker ps -a
+
+Liste tous les containers actifs
+sudo docker ps
+
+
+
+
 
 

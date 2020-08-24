@@ -1,0 +1,3182 @@
+[
+    {
+        "key": "impassemathieu",
+        "match": null,
+        "sims": [
+            "impassemarteau",
+            "impassemartini",
+            "impassemarty"
+        ]
+    },
+    {
+        "key": "souterrainbouclesainteustache",
+        "match": null,
+        "sims": [
+            "portesainteustache",
+            "balconsainteustache",
+            "impassesainteustache"
+        ]
+    },
+    {
+        "key": "avenuedesaintmaurice",
+        "match": null,
+        "sims": [
+            "avenuesaintemarie",
+            "avenuedesaintmande",
+            "avenuedesaintouen"
+        ]
+    },
+    {
+        "key": "placepauletaugustinefiket",
+        "match": null,
+        "sims": [
+            "placesaintaugustin",
+            "placepaulverlaine",
+            "placepaulpainleve"
+        ]
+    },
+    {
+        "key": "souterrainalma",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "routedebourbon",
+        "match": null,
+        "sims": [
+            "ruedebourgogne",
+            "ruedetournon",
+            "ruebourgon"
+        ]
+    },
+    {
+        "key": "routedelamuetteaneuilly",
+        "match": null,
+        "sims": [
+            "ruedelabutteauxcailles",
+            "ruedelapetitetruanderie",
+            "ruedelagaredereuilly"
+        ]
+    },
+    {
+        "key": "ruemereteresa",
+        "match": null,
+        "sims": [
+            "ruedesternes",
+            "ruetherese",
+            "ruemontera"
+        ]
+    },
+    {
+        "key": "carrefourdelacroixcatelan",
+        "match": null,
+        "sims": [
+            "carrefourdelacroixrouge",
+            "carrefourdelodeon",
+            "carrefourdestheatres"
+        ]
+    },
+    {
+        "key": "placedefontenoyunesco",
+        "match": 0,
+        "sims": [
+            "placedefontenoy",
+            "placedesternes",
+            "placedetokyo"
+        ]
+    },
+    {
+        "key": "routedelatourelle",
+        "match": null,
+        "sims": [
+            "portdelatournelle",
+            "pontdelatournelle",
+            "ruedestourelles"
+        ]
+    },
+    {
+        "key": "placecarmen",
+        "match": null,
+        "sims": [
+            "placecarree",
+            "placeducaire",
+            "placecambronne"
+        ]
+    },
+    {
+        "key": "placerobertverdier",
+        "match": null,
+        "sims": [
+            "placerobertdesnos",
+            "placerobertantelme",
+            "placerobertguillemard"
+        ]
+    },
+    {
+        "key": "esplanaderogerboscovich",
+        "match": null,
+        "sims": [
+            "esplanaderogerlinet",
+            "esplanadereneelebas",
+            "esplanadedugeneralcasso"
+        ]
+    },
+    {
+        "key": "placettemontehus",
+        "match": null,
+        "sims": [
+            "placemonge",
+            "placejeanpronteau",
+            "placedesternes"
+        ]
+    },
+    {
+        "key": "alleejeanfrancoisdivry",
+        "match": null,
+        "sims": [
+            "ruejeanfrancoislepine",
+            "placefrancoisier",
+            "alleedenisevernay"
+        ]
+    },
+    {
+        "key": "placedeflore",
+        "match": null,
+        "sims": [
+            "placedelabourse",
+            "placedulouvre",
+            "placedelopera"
+        ]
+    },
+    {
+        "key": "avenuepierreloti",
+        "match": null,
+        "sims": [
+            "avenuepierredecoubertin",
+            "avenuepierremasse",
+            "ruepierrelescot"
+        ]
+    },
+    {
+        "key": "ruedelarcenciel",
+        "match": null,
+        "sims": [
+            "ruedelareynie",
+            "ruedelarsenal",
+            "ruedelacreche"
+        ]
+    },
+    {
+        "key": "portedesaintmande",
+        "match": null,
+        "sims": [
+            "portesaintjames",
+            "avenuedesaintmande",
+            "ruesaintamand"
+        ]
+    },
+    {
+        "key": "portdegrenelle",
+        "match": null,
+        "sims": [
+            "pontdegrenelle",
+            "ruedegrenelle",
+            "portdelatournelle"
+        ]
+    },
+    {
+        "key": "courdechalon",
+        "match": null,
+        "sims": [
+            "ruedechalon",
+            "courderohan",
+            "courdelours"
+        ]
+    },
+    {
+        "key": "impassechalon",
+        "match": null,
+        "sims": [
+            "impassechandon",
+            "impassechausson",
+            "impassehaxo"
+        ]
+    },
+    {
+        "key": "placemarieclaudevaillantcouturier",
+        "match": 0,
+        "sims": [
+            "placemarieclaudevaillantcouturieretpierrevillon",
+            "avenuepaulvaillantcouturier",
+            "placemariemadeleinefourcade"
+        ]
+    },
+    {
+        "key": "ruemontalembert",
+        "match": 0,
+        "sims": [
+            "ruedemontalembert",
+            "ruedalembert",
+            "ruemontgallet"
+        ]
+    },
+    {
+        "key": "ruepabloneruda",
+        "match": null,
+        "sims": [
+            "rueborda",
+            "ruepolonceau",
+            "ruealphonseboudard"
+        ]
+    },
+    {
+        "key": "alleedesfortifications",
+        "match": null,
+        "sims": [
+            "alleedesjustesparmilesnations",
+            "alleedesrefuzniks",
+            "alleedescardinoux"
+        ]
+    },
+    {
+        "key": "avenuejacquesdelinieres",
+        "match": null,
+        "sims": [
+            "ruejacqueskellner",
+            "avenuedevilliers",
+            "avenuedelaumiere"
+        ]
+    },
+    {
+        "key": "routedubosquetmortemart",
+        "match": null,
+        "sims": [
+            "ruedufaubourgmontmartre",
+            "ruebosquet",
+            "rueduquatreseptembre"
+        ]
+    },
+    {
+        "key": "routedelepine",
+        "match": null,
+        "sims": [
+            "courdelepine",
+            "ruedeseine",
+            "ruedelaplaine"
+        ]
+    },
+    {
+        "key": "alleedesbouleaux",
+        "match": null,
+        "sims": [
+            "squaredesbouleaux",
+            "alleedesbrouillards",
+            "villadeshouseaux"
+        ]
+    },
+    {
+        "key": "placeduhuitnovembre1942",
+        "match": 0,
+        "sims": [
+            "placedu8novembre1942",
+            "placeduvingtdeuxnovembre1943",
+            "placedu11novembre1918"
+        ]
+    },
+    {
+        "key": "carrefourdescascades",
+        "match": null,
+        "sims": [
+            "ruedescascades",
+            "carrefourdestheatres",
+            "carrefourdelodeon"
+        ]
+    },
+    {
+        "key": "routedesbatteries",
+        "match": null,
+        "sims": [
+            "ruedesternes",
+            "ruedesbarres",
+            "ruedestanneries"
+        ]
+    },
+    {
+        "key": "courdesateliers",
+        "match": null,
+        "sims": [
+            "courdestroisfreres",
+            "courdalger",
+            "coursainteloi"
+        ]
+    },
+    {
+        "key": "placenoelveg",
+        "match": null,
+        "sims": [
+            "placepinel",
+            "placenationale",
+            "placedebolivie"
+        ]
+    },
+    {
+        "key": "passagemiriammakeba",
+        "match": null,
+        "sims": [
+            "passagerimbaut",
+            "passageramey",
+            "passagebriare"
+        ]
+    },
+    {
+        "key": "peristyledemontpensier",
+        "match": 0,
+        "sims": [
+            "galeriedemontpensier",
+            "ruedemontpensier",
+            "passagedemontpensier"
+        ]
+    },
+    {
+        "key": "impassedany",
+        "match": null,
+        "sims": [
+            "impassedaunay",
+            "impassedelaunay",
+            "impassedantin"
+        ]
+    },
+    {
+        "key": "alleeblaisecendrars",
+        "match": null,
+        "sims": [
+            "alleelydiabecker",
+            "alleedenisevernay",
+            "alleedeseiders"
+        ]
+    },
+    {
+        "key": "rueallard",
+        "match": null,
+        "sims": [
+            "ruesaillard",
+            "ruemaillard",
+            "ruebalard"
+        ]
+    },
+    {
+        "key": "carrefourdelaconservation",
+        "match": null,
+        "sims": [
+            "ruedelaconvention",
+            "carrefourdestheatres",
+            "carrefourdelodeon"
+        ]
+    },
+    {
+        "key": "echangeurmuette",
+        "match": null,
+        "sims": [
+            "chausseedelamuette"
+        ]
+    },
+    {
+        "key": "routeroyaledebeaute",
+        "match": null,
+        "sims": [
+            "ruedebeaune",
+            "ruedebeauce",
+            "rueroyale"
+        ]
+    },
+    {
+        "key": "ruelleauperefragile",
+        "match": null,
+        "sims": [
+            "ruelauresurville",
+            "ruellefraisier",
+            "ruebeaurepaire"
+        ]
+    },
+    {
+        "key": "placehrantdink",
+        "match": null,
+        "sims": [
+            "placerodin",
+            "placedelanation",
+            "placesaintferdinand"
+        ]
+    },
+    {
+        "key": "peristyledevalois",
+        "match": 0,
+        "sims": [
+            "galeriedevalois",
+            "placedevalois",
+            "ruedevalois"
+        ]
+    },
+    {
+        "key": "avenuedescanadiens",
+        "match": null,
+        "sims": [
+            "avenuedecamoens",
+            "avenuedeschalets",
+            "avenuedesalonique"
+        ]
+    },
+    {
+        "key": "souterrainchapelle",
+        "match": null,
+        "sims": [
+            "ruehermannlachapelle",
+            "citedelachapelle",
+            "boulevarddelachapelle"
+        ]
+    },
+    {
+        "key": "souterraincharenton",
+        "match": null,
+        "sims": [
+            "ruerichardlenoir",
+            "ruedecharenton"
+        ]
+    },
+    {
+        "key": "promenadeyvessaintlaurent",
+        "match": null,
+        "sims": [
+            "ruesaintlaurent",
+            "promenadesignoretmontand",
+            "promenadejulesisaac"
+        ]
+    },
+    {
+        "key": "terrasseduparc",
+        "match": null,
+        "sims": [
+            "terrassedechampagne",
+            "impassedumaroc",
+            "passagedumarche"
+        ]
+    },
+    {
+        "key": "squareamicielebaudy",
+        "match": null,
+        "sims": [
+            "squarenicolay",
+            "squaremonceau",
+            "squarejeanthebaud"
+        ]
+    },
+    {
+        "key": "routebuttemortemart",
+        "match": null,
+        "sims": [
+            "ruealbertmarquet",
+            "ruemontmartre",
+            "ruebremontier"
+        ]
+    },
+    {
+        "key": "voieexpressrivegauche",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "impassedeleglise",
+        "match": null,
+        "sims": [
+            "impassedelevis",
+            "impassedelepine",
+            "impassedelecole"
+        ]
+    },
+    {
+        "key": "avenuedupolygone",
+        "match": null,
+        "sims": [
+            "avenuedepologne",
+            "avenuedutrone",
+            "avenueducolonelbonnet"
+        ]
+    },
+    {
+        "key": "avenuedecrimee",
+        "match": null,
+        "sims": [
+            "ruedecrimee",
+            "avenuedemessine",
+            "avenuedecorbera"
+        ]
+    },
+    {
+        "key": "chemindesgravilliers",
+        "match": null,
+        "sims": [
+            "ruedesgravilliers",
+            "passagedesgravilliers",
+            "avenuedevilliers"
+        ]
+    },
+    {
+        "key": "souterrainmainemontparnasse",
+        "match": null,
+        "sims": [
+            "boulevarddumontparnasse",
+            "ruedumontparnasse"
+        ]
+    },
+    {
+        "key": "routedesbosquets",
+        "match": null,
+        "sims": [
+            "ruedesboulets",
+            "ruedesbluets",
+            "ruebosquet"
+        ]
+    },
+    {
+        "key": "routedelafaluere",
+        "match": null,
+        "sims": [
+            "ruedelasabliere",
+            "ruedelacavalerie",
+            "ruedelamare"
+        ]
+    },
+    {
+        "key": "avenuepuebla",
+        "match": null,
+        "sims": [
+            "avenuedutremblay",
+            "avenuepauladam",
+            "avenuedubelair"
+        ]
+    },
+    {
+        "key": "routedeslacsabagatelle",
+        "match": null,
+        "sims": [
+            "portedebagatelle",
+            "ruedelachapelle",
+            "ruedelabastille"
+        ]
+    },
+    {
+        "key": "routedelaportedauphinealaportedessablons",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "placeannemariecarriere",
+        "match": null,
+        "sims": [
+            "placemauricebarres",
+            "placemauricechevalier",
+            "placeantoinefuretiere"
+        ]
+    },
+    {
+        "key": "ruebernardtetu",
+        "match": null,
+        "sims": [
+            "ruebernardbuffet",
+            "ruebenard",
+            "ruebernarddimey"
+        ]
+    },
+    {
+        "key": "routedessabotiers",
+        "match": null,
+        "sims": [
+            "ruedeschantiers",
+            "ruedesbois",
+            "ruedessablons"
+        ]
+    },
+    {
+        "key": "rueemilieduchatelet",
+        "match": null,
+        "sims": [
+            "ruemichelet",
+            "rueduchalet",
+            "ruelechatelier"
+        ]
+    },
+    {
+        "key": "placedu22novembre1943",
+        "match": 2,
+        "sims": [
+            "placedu8novembre1942",
+            "placedu11novembre1918",
+            "placeduvingtdeuxnovembre1943"
+        ]
+    },
+    {
+        "key": "placemehdibenbarka",
+        "match": null,
+        "sims": [
+            "placediena",
+            "placedenarvik",
+            "placejosephinebaker"
+        ]
+    },
+    {
+        "key": "lesportiquesdorleans",
+        "match": null,
+        "sims": [
+            "galeriedorleans",
+            "squaredorleans",
+            "avenuedelaportedorleans"
+        ]
+    },
+    {
+        "key": "routedelademilune",
+        "match": null,
+        "sims": [
+            "ruedelalune",
+            "ruedelabbemigne",
+            "ruedelatremoille"
+        ]
+    },
+    {
+        "key": "placejankarski",
+        "match": null,
+        "sims": [
+            "placejeanmarais",
+            "placejeanvilar",
+            "placejeangabin"
+        ]
+    },
+    {
+        "key": "alleedesdames",
+        "match": null,
+        "sims": [
+            "alleedesmauves",
+            "ruedesdames",
+            "alleedeseiders"
+        ]
+    },
+    {
+        "key": "alleefortunee",
+        "match": null,
+        "sims": [
+            "alleeverte",
+            "alleearthurhonegger",
+            "alleedefontainebleau"
+        ]
+    },
+    {
+        "key": "routedelaseinealabuttemortemart",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "impassedesprimeveres",
+        "match": null,
+        "sims": [
+            "passagedesprimeveres",
+            "impassedespretres",
+            "impassedescarrieres"
+        ]
+    },
+    {
+        "key": "routedelesplanade",
+        "match": null,
+        "sims": [
+            "ruedelestrapade",
+            "ruedelesperance",
+            "ruedesplantes"
+        ]
+    },
+    {
+        "key": "alleepernetteduguillet",
+        "match": null,
+        "sims": [
+            "alleepierremollaret",
+            "alleevalentinabeille"
+        ]
+    },
+    {
+        "key": "citedelaunay",
+        "match": null,
+        "sims": [
+            "citedelalma",
+            "impassedelaunay",
+            "citeduplan"
+        ]
+    },
+    {
+        "key": "placestephanehessel",
+        "match": null,
+        "sims": [
+            "placedesternes",
+            "placejosephepstein",
+            "placedepassy"
+        ]
+    },
+    {
+        "key": "passageemmacalve",
+        "match": null,
+        "sims": [
+            "passagedelareale",
+            "passagedeclery",
+            "passagetenaille"
+        ]
+    },
+    {
+        "key": "placetheophilebader",
+        "match": null,
+        "sims": [
+            "placejosephinebaker",
+            "squaretheophilegautier",
+            "avenuetheophilegautier"
+        ]
+    },
+    {
+        "key": "passagehypathiedalexandrie",
+        "match": null,
+        "sims": [
+            "passagealexandrine",
+            "passagealexandre",
+            "passagelandrieu"
+        ]
+    },
+    {
+        "key": "echangeurchamperret",
+        "match": null,
+        "sims": [
+            "avenuedelaportedechamperret",
+            "ruechauchat"
+        ]
+    },
+    {
+        "key": "routecirculaire",
+        "match": null,
+        "sims": [
+            "rueclotaire",
+            "ruelahire",
+            "ruecoravaucaire"
+        ]
+    },
+    {
+        "key": "placedureverendperecarre",
+        "match": null,
+        "sims": [
+            "alleedureverendperemichelriquet",
+            "placeduperechaillet",
+            "placeduvenezuela"
+        ]
+    },
+    {
+        "key": "routedelagrandecascade",
+        "match": null,
+        "sims": [
+            "ruedelagrandechaumiere",
+            "ruedelagrenade",
+            "ruedelagrandetruanderie"
+        ]
+    },
+    {
+        "key": "squaresaintromain",
+        "match": null,
+        "sims": [
+            "ruesaintromain",
+            "squaresaintirenee",
+            "ruesaintmartin"
+        ]
+    },
+    {
+        "key": "routeodette",
+        "match": null,
+        "sims": [
+            "ruedecotte",
+            "ruecollette",
+            "ruegoethe"
+        ]
+    },
+    {
+        "key": "esplanadeducapitainehenripierret",
+        "match": null,
+        "sims": [
+            "esplanadehenridefrance"
+        ]
+    },
+    {
+        "key": "passagewalterbenjamin",
+        "match": null,
+        "sims": [
+            "passagelemoine",
+            "passagebenaiad",
+            "passagetenaille"
+        ]
+    },
+    {
+        "key": "parvisclaireheymannetmariaerrazuriz",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "placebilalberenni",
+        "match": 0,
+        "sims": [
+            "placebilalberreni",
+            "placealbertcohen",
+            "placealbertkahn"
+        ]
+    },
+    {
+        "key": "chemindelaseineabagatelle",
+        "match": null,
+        "sims": [
+            "avenuedelasibelle"
+        ]
+    },
+    {
+        "key": "routedugrandprieur",
+        "match": null,
+        "sims": [
+            "ruedugrandprieure",
+            "ruedugrandveneur",
+            "rueandrieux"
+        ]
+    },
+    {
+        "key": "ronddesmelezes",
+        "match": null,
+        "sims": [
+            "ruedesecoles",
+            "ruedeseze",
+            "ruedesreculettes"
+        ]
+    },
+    {
+        "key": "placejeanpaulsartresimonedebeauvoir",
+        "match": 0,
+        "sims": [
+            "placejeanpaulsartreetsimonedebeauvoir",
+            "passerellesimonedebeauvoir",
+            "placejeanpronteau"
+        ]
+    },
+    {
+        "key": "ruejarry",
+        "match": null,
+        "sims": [
+            "ruelarrey",
+            "ruejapy",
+            "ruejeanrey"
+        ]
+    },
+    {
+        "key": "routedelaportejaune",
+        "match": null,
+        "sims": [
+            "ruedelaprevoyance",
+            "routedelapyramide",
+            "avenuedelaportebrunet"
+        ]
+    },
+    {
+        "key": "avenuedesmarnes",
+        "match": null,
+        "sims": [
+            "avenuedesternes",
+            "avenuedesarts",
+            "avenuedesaxe"
+        ]
+    },
+    {
+        "key": "pontdegrenellecadetsdesaumur",
+        "match": null,
+        "sims": [
+            "pontdegrenelle"
+        ]
+    },
+    {
+        "key": "chemindespepinieres",
+        "match": null,
+        "sims": [
+            "ruedelapepiniere",
+            "avenuedespeupliers",
+            "ruedespeupliers"
+        ]
+    },
+    {
+        "key": "routedudonjon",
+        "match": null,
+        "sims": [
+            "rueducongo",
+            "ruededijon",
+            "ruedudragon"
+        ]
+    },
+    {
+        "key": "alleeparisivry",
+        "match": null,
+        "sims": [
+            "alleeduparcdechoisy",
+            "alleedenisevernay",
+            "alleemariusbarroux"
+        ]
+    },
+    {
+        "key": "ruedeplhineseyrig",
+        "match": 0,
+        "sims": [
+            "ruedelphineseyrig",
+            "ruedelasteyrie",
+            "ruedelachine"
+        ]
+    },
+    {
+        "key": "routedesuresnes",
+        "match": null,
+        "sims": [
+            "ruedesurene",
+            "pontdesuresnes",
+            "ruedesursins"
+        ]
+    },
+    {
+        "key": "avenuedestribunes",
+        "match": null,
+        "sims": [
+            "avenuedesternes",
+            "avenuedesnationsunies",
+            "avenuedebouvines"
+        ]
+    },
+    {
+        "key": "carrefourdestribunes",
+        "match": null,
+        "sims": [
+            "carrefourdestheatres",
+            "carrefourdelacroixrouge",
+            "courdesfabriques"
+        ]
+    },
+    {
+        "key": "routedeslacsapassy",
+        "match": null,
+        "sims": [
+            "ruedepassy",
+            "ruedesacacias",
+            "ruedelasaida"
+        ]
+    },
+    {
+        "key": "passagebaltard",
+        "match": null,
+        "sims": [
+            "passagehebrard",
+            "passagebenaiad",
+            "passagebrady"
+        ]
+    },
+    {
+        "key": "chemindeceinturedulacsuperieur",
+        "match": null,
+        "sims": [
+            "routedeceinturedulacdaumesnil"
+        ]
+    },
+    {
+        "key": "squarelarochefoucauld",
+        "match": 0,
+        "sims": [
+            "squaredelarochefoucauld",
+            "ruedelarochefoucauld",
+            "squareleroybeaulieu"
+        ]
+    },
+    {
+        "key": "carrefourdelongchamp",
+        "match": null,
+        "sims": [
+            "ruedelongchamp",
+            "carrefourdelodeon",
+            "ruedubouquetdelongchamp"
+        ]
+    },
+    {
+        "key": "ruedemagenta",
+        "match": 0,
+        "sims": [
+            "ruemagenta",
+            "ruedemarignan",
+            "citedemagenta"
+        ]
+    },
+    {
+        "key": "routedelaplaine",
+        "match": null,
+        "sims": [
+            "ruedelaplaine",
+            "ruedelaplanche",
+            "routedelapyramide"
+        ]
+    },
+    {
+        "key": "promenadejeannemoreau",
+        "match": null,
+        "sims": [
+            "promenadejeanvigo",
+            "promenadeplantee",
+            "promenadegeorgesulmer"
+        ]
+    },
+    {
+        "key": "cheminducimetiere",
+        "match": null,
+        "sims": [
+            "rueduchemindefer",
+            "citeindustrielle"
+        ]
+    },
+    {
+        "key": "placeslimaneazem",
+        "match": null,
+        "sims": [
+            "placediana",
+            "placesaintjean",
+            "placeozanam"
+        ]
+    },
+    {
+        "key": "routeduparc",
+        "match": null,
+        "sims": [
+            "ruedumaroc",
+            "rueduroc",
+            "ruedupre"
+        ]
+    },
+    {
+        "key": "impassedesdeuxanges",
+        "match": null,
+        "sims": [
+            "impassedesdeuxnethes",
+            "impassedangers",
+            "impassedesanglais"
+        ]
+    },
+    {
+        "key": "placedelinstitut",
+        "match": null,
+        "sims": [
+            "placedelareineastrid",
+            "placedelevis",
+            "placedelanation"
+        ]
+    },
+    {
+        "key": "ruetoussaintlouverture",
+        "match": null,
+        "sims": [
+            "ruetoussaintferon",
+            "ruesaintsauveur",
+            "ruesanterre"
+        ]
+    },
+    {
+        "key": "passagejacquelinegiraud",
+        "match": null,
+        "sims": [
+            "passagesigaud",
+            "passagesaintbernard",
+            "passagedutelegraphe"
+        ]
+    },
+    {
+        "key": "rueleonbronchart",
+        "match": null,
+        "sims": [
+            "rueleonbonnat",
+            "alleeleonbronchart",
+            "rueleonfrot"
+        ]
+    },
+    {
+        "key": "avenuedelacascade",
+        "match": null,
+        "sims": [
+            "avenuedelcasse",
+            "avenuedesaxe",
+            "avenueduperelachaise"
+        ]
+    },
+    {
+        "key": "portdejavel",
+        "match": null,
+        "sims": [
+            "ruedejavel",
+            "portejaune",
+            "portdauteuil"
+        ]
+    },
+    {
+        "key": "routedesfortifications",
+        "match": null,
+        "sims": [
+            "routedespetitsponts",
+            "ruedespoitevins",
+            "ruedesmorillons"
+        ]
+    },
+    {
+        "key": "souterrainmaillot",
+        "match": null,
+        "sims": [
+            "coursaintemilion"
+        ]
+    },
+    {
+        "key": "placeemanuellevinas",
+        "match": 0,
+        "sims": [
+            "placeemmanuellevinas",
+            "placedelevis",
+            "placereneevivien"
+        ]
+    },
+    {
+        "key": "placeleoferre",
+        "match": null,
+        "sims": [
+            "placejoffre",
+            "placelucienherr",
+            "placeleondeubel"
+        ]
+    },
+    {
+        "key": "routedelacascade",
+        "match": null,
+        "sims": [
+            "ruedescascades",
+            "ruedelarcade",
+            "ruedelachaise"
+        ]
+    },
+    {
+        "key": "routedeladameblanche",
+        "match": null,
+        "sims": [
+            "avenuedeladameblanche",
+            "ruedelareineblanche",
+            "ruedelaplanche"
+        ]
+    },
+    {
+        "key": "autoroutea13",
+        "match": null,
+        "sims": [
+            "autoroutea13(france)",
+            "autoroutea4(france)"
+        ]
+    },
+    {
+        "key": "alleedeserables",
+        "match": null,
+        "sims": [
+            "alleedesvergers",
+            "alleedesmauves",
+            "alleedeseiders"
+        ]
+    },
+    {
+        "key": "alleedeshortensias",
+        "match": null,
+        "sims": [
+            "alleedesrefuzniks",
+            "alleedeseiders",
+            "alleedesbrouillards"
+        ]
+    },
+    {
+        "key": "avenuejeanbaptistecave",
+        "match": null,
+        "sims": [
+            "ruejeanbaptistesay",
+            "avenuejeanaicard",
+            "ruejeanbaptistepigalle"
+        ]
+    },
+    {
+        "key": "impasseduquaranteneuffaubourgsaintmartin",
+        "match": 0,
+        "sims": [
+            "impassedu49faubourgsaintmartin",
+            "ruedufaubourgsaintmartin",
+            "ruedufaubourgsaintantoine"
+        ]
+    },
+    {
+        "key": "avenuedelhippodrome",
+        "match": null,
+        "sims": [
+            "portedelhippodrome",
+            "avenuedepologne",
+            "avenuedeflandre"
+        ]
+    },
+    {
+        "key": "carrefourdelapattedoie",
+        "match": null,
+        "sims": [
+            "carrefourdelodeon",
+            "carrefourdelacroixrouge",
+            "carrefourdestheatres"
+        ]
+    },
+    {
+        "key": "routedespelouses",
+        "match": null,
+        "sims": [
+            "ruedesroses",
+            "ruedelouest",
+            "ruedesreglises"
+        ]
+    },
+    {
+        "key": "routedupesage",
+        "match": null,
+        "sims": [
+            "ruelesage",
+            "ruedutage",
+            "rueduterrage"
+        ]
+    },
+    {
+        "key": "chemindeslacsalaportedauphine",
+        "match": null,
+        "sims": [
+            "avenuedelaportedelaplaine"
+        ]
+    },
+    {
+        "key": "placedudixhuitjuin1940",
+        "match": 0,
+        "sims": [
+            "placedu18juin1940",
+            "placedu25aout1944"
+        ]
+    },
+    {
+        "key": "placedelhoteldevilleesplanadedelaliberation",
+        "match": null,
+        "sims": [
+            "placedelhoteldeville",
+            "placedeleglisedelassomption"
+        ]
+    },
+    {
+        "key": "routedelaportesaintjames",
+        "match": null,
+        "sims": [
+            "portesaintjames",
+            "ruedelaportedissy",
+            "routedelapyramide"
+        ]
+    },
+    {
+        "key": "parvismauricedruon",
+        "match": null,
+        "sims": [
+            "parvisalanturing",
+            "villamauricerollinat",
+            "avenuemauricedocagne"
+        ]
+    },
+    {
+        "key": "placepatricechereau",
+        "match": null,
+        "sims": [
+            "placemarcelcerdan",
+            "placemauricechevalier",
+            "placedenfertrochereau"
+        ]
+    },
+    {
+        "key": "placeousmanesow",
+        "match": null,
+        "sims": [
+            "placelouismarin",
+            "placelouisarmand",
+            "placepossoz"
+        ]
+    },
+    {
+        "key": "souterrainalexandreiii",
+        "match": null,
+        "sims": [
+            "pontalexandreiii"
+        ]
+    },
+    {
+        "key": "avenuedestilleuls12eme",
+        "match": 0,
+        "sims": [
+            "avenuedestilleuls",
+            "avenuedeversailles",
+            "avenuedevilliers"
+        ]
+    },
+    {
+        "key": "routelemoine",
+        "match": null,
+        "sims": [
+            "ruelemon",
+            "rueleontine",
+            "ruedesmoines"
+        ]
+    },
+    {
+        "key": "ruejulesrenard",
+        "match": null,
+        "sims": [
+            "ruejulescesar",
+            "ruedurenard",
+            "placejulesrenard"
+        ]
+    },
+    {
+        "key": "routeduchampdemanoeuvres",
+        "match": null,
+        "sims": [
+            "rueduchampdemars",
+            "rueduchampdelalouette",
+            "rueducommandeur"
+        ]
+    },
+    {
+        "key": "placeduhuitfevrier1962",
+        "match": 0,
+        "sims": [
+            "placedu8fevrier1962",
+            "placeduguignier",
+            "placeduhavre"
+        ]
+    },
+    {
+        "key": "ruegeorgespicquart",
+        "match": 0,
+        "sims": [
+            "ruemariegeorgespicquart",
+            "ruegeorgespitard",
+            "ruegeorgesperec"
+        ]
+    },
+    {
+        "key": "routedauteuilasuresnes",
+        "match": null,
+        "sims": [
+            "ruedudocteurlaurent",
+            "ruedelacourdesnoues",
+            "ruedesurene"
+        ]
+    },
+    {
+        "key": "placedutrocaderoetduonzenovembre",
+        "match": 0,
+        "sims": [
+            "placedutrocaderoetdu11novembre",
+            "placeduvingtdeuxnovembre1943"
+        ]
+    },
+    {
+        "key": "routedelasilenational",
+        "match": null,
+        "sims": [
+            "ruedelapresentation",
+            "ruedelarsenal",
+            "ruedelareunion"
+        ]
+    },
+    {
+        "key": "avenuedefontenay",
+        "match": null,
+        "sims": [
+            "avenuedemontmorency",
+            "avenuedemontespan",
+            "avenuedelowendal"
+        ]
+    },
+    {
+        "key": "alleedeladeuxiemed.b.",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "avenuedesminimes",
+        "match": null,
+        "sims": [
+            "ruedesminimes",
+            "avenuedesternes",
+            "avenuedesaintmande"
+        ]
+    },
+    {
+        "key": "souterrainclignancourt",
+        "match": null,
+        "sims": [
+            "squaredeclignancourt",
+            "ruedeclignancourt"
+        ]
+    },
+    {
+        "key": "passagesouterrainhenrigaillard",
+        "match": null,
+        "sims": [
+            "passagesaintbernard",
+            "passagetenaille",
+            "passagestinville"
+        ]
+    },
+    {
+        "key": "souterraintransithalles",
+        "match": null,
+        "sims": [
+            "ruexaintrailles"
+        ]
+    },
+    {
+        "key": "voiegrandbalcon",
+        "match": null,
+        "sims": [
+            "grandbalcon"
+        ]
+    },
+    {
+        "key": "chemindeceinturedulacinferieur",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "routedubac",
+        "match": null,
+        "sims": [
+            "ruedubac",
+            "ruedulac",
+            "rueduban"
+        ]
+    },
+    {
+        "key": "carrefourdebeaute",
+        "match": null,
+        "sims": [
+            "carrefourdestheatres",
+            "carrefourdelodeon",
+            "carrefourdelacroixrouge"
+        ]
+    },
+    {
+        "key": "citeyvesklein",
+        "match": null,
+        "sims": [
+            "citeriverin",
+            "citeveron",
+            "citedesfleurs"
+        ]
+    },
+    {
+        "key": "grilledesaintcloud",
+        "match": null,
+        "sims": [
+            "avenuedesaintcloud",
+            "ruesaintclaude",
+            "placedelaportedesaintcloud"
+        ]
+    },
+    {
+        "key": "alleeroyale",
+        "match": null,
+        "sims": [
+            "rueroyale",
+            "alleerodenbach",
+            "palaisroyal"
+        ]
+    },
+    {
+        "key": "routesainthubert",
+        "match": null,
+        "sims": [
+            "ruesainthubert",
+            "ruesaintlambert",
+            "rueschubert"
+        ]
+    },
+    {
+        "key": "impassechalabre",
+        "match": null,
+        "sims": [
+            "impassecanart",
+            "impassechartiere",
+            "impassecalmels"
+        ]
+    },
+    {
+        "key": "ruedecroulebarbe",
+        "match": 0,
+        "sims": [
+            "ruecroulebarbe",
+            "ruedecolmar",
+            "ruedecoulmiers"
+        ]
+    },
+    {
+        "key": "arcadesdeschampselysees",
+        "match": null,
+        "sims": [
+            "avenuedeschampselysees",
+            "portdeschampselysees"
+        ]
+    },
+    {
+        "key": "peristyledebeaujolais",
+        "match": 0,
+        "sims": [
+            "galeriedebeaujolais",
+            "ruedebeaujolais",
+            "passagedebeaujolais"
+        ]
+    },
+    {
+        "key": "routedesdames",
+        "match": null,
+        "sims": [
+            "ruedesdames",
+            "ruedescarmes",
+            "ruedeshaies"
+        ]
+    },
+    {
+        "key": "alleesamuelbeckett",
+        "match": null,
+        "sims": [
+            "alleedelabertelotte",
+            "alleelydiabecker",
+            "alleesjacquesbrel"
+        ]
+    },
+    {
+        "key": "routedelaviergeauxberceaux",
+        "match": null,
+        "sims": [
+            "ruedelagrangeauxbelles",
+            "ruemadeleinereberioux",
+            "ruedupreauxchevaux"
+        ]
+    },
+    {
+        "key": "voiebalconsainteustache",
+        "match": null,
+        "sims": [
+            "balconsainteustache",
+            "portesainteustache",
+            "impassesainteustache"
+        ]
+    },
+    {
+        "key": "avenuedelapepiniere",
+        "match": null,
+        "sims": [
+            "ruedelapepiniere",
+            "avenuedelaumiere",
+            "avenuedelaportedasnieres"
+        ]
+    },
+    {
+        "key": "courdulevant",
+        "match": null,
+        "sims": [
+            "courduliegat",
+            "courduponant",
+            "courducantal"
+        ]
+    },
+    {
+        "key": "routedupointdevue",
+        "match": null,
+        "sims": [
+            "ruedupotdefer",
+            "ruedupontneuf",
+            "ruedupontdeleure"
+        ]
+    },
+    {
+        "key": "placecharlesmonselet",
+        "match": null,
+        "sims": [
+            "ruecharlesmonselet",
+            "placecharlesmichels",
+            "placecharlesdegaulle"
+        ]
+    },
+    {
+        "key": "placegabrielkaspereit",
+        "match": null,
+        "sims": [
+            "placegabrielperi",
+            "placebilalberreni",
+            "placeambroisecroizat"
+        ]
+    },
+    {
+        "key": "ruemarieskobtsov",
+        "match": 0,
+        "sims": [
+            "ruemeremarieskobtsov",
+            "ruemarierose",
+            "ruemariotte"
+        ]
+    },
+    {
+        "key": "alleeeugenie",
+        "match": null,
+        "sims": [
+            "alleedeseiders",
+            "alleedescygnes",
+            "alleeleonbourgeois"
+        ]
+    },
+    {
+        "key": "placetteclaudebouvelle",
+        "match": null,
+        "sims": [
+            "placeclaudebourdet",
+            "avenueclaudevellefaux",
+            "placefelixeboue"
+        ]
+    },
+    {
+        "key": "souterrainvarsovie",
+        "match": null,
+        "sims": [
+            "ruesoeurcatherinemarie"
+        ]
+    },
+    {
+        "key": "routeduruisseau",
+        "match": null,
+        "sims": [
+            "rueduruisseau",
+            "rueduris",
+            "rueducroissant"
+        ]
+    },
+    {
+        "key": "routedulacdesaintmande",
+        "match": null,
+        "sims": [
+            "villadesaintmande",
+            "ruesaintamand",
+            "ruedumarchesainthonore"
+        ]
+    },
+    {
+        "key": "routedomperignon",
+        "match": null,
+        "sims": [
+            "rueperignon",
+            "ruemignon",
+            "ruederigny"
+        ]
+    },
+    {
+        "key": "boulevardmauricebarres",
+        "match": null,
+        "sims": [
+            "boulevardbarbes",
+            "placemauricebarres",
+            "boulevardmortier"
+        ]
+    },
+    {
+        "key": "villaduvieuxchemindivry",
+        "match": null,
+        "sims": [
+            "villapierreginier"
+        ]
+    },
+    {
+        "key": "villamanin",
+        "match": null,
+        "sims": [
+            "villabaumann",
+            "villaarmand",
+            "villaamalia"
+        ]
+    },
+    {
+        "key": "routedelacroixrouge",
+        "match": null,
+        "sims": [
+            "carrefourdelacroixrouge",
+            "ruedelacroixmoreau",
+            "ruedelacroixjarry"
+        ]
+    },
+    {
+        "key": "routedelapompadour",
+        "match": null,
+        "sims": [
+            "ruedelamaindor",
+            "ruedelapompe",
+            "ruedelamadone"
+        ]
+    },
+    {
+        "key": "placedarnomaffini",
+        "match": null,
+        "sims": [
+            "placeromaingary",
+            "placedelanation",
+            "placerodin"
+        ]
+    },
+    {
+        "key": "citetraeger",
+        "match": null,
+        "sims": [
+            "citestemler",
+            "citebergere",
+            "citethure"
+        ]
+    },
+    {
+        "key": "rueseverianodeheredia",
+        "match": null,
+        "sims": [
+            "ruejosemariadeheredia",
+            "ruecyranodebergerac",
+            "rueverderet"
+        ]
+    },
+    {
+        "key": "routeduprecatelan",
+        "match": null,
+        "sims": [
+            "ruedecastellane",
+            "rueduplateau",
+            "ruedupelican"
+        ]
+    },
+    {
+        "key": "souterraintuilleries",
+        "match": null,
+        "sims": [
+            "quaidestuileries",
+            "portdestuileries",
+            "sentierbriens"
+        ]
+    },
+    {
+        "key": "placerenelaennec",
+        "match": null,
+        "sims": [
+            "placedelagarenne",
+            "placejeannedarc",
+            "placedelargonne"
+        ]
+    },
+    {
+        "key": "placejacquesferon",
+        "match": null,
+        "sims": [
+            "placejacquesfroment",
+            "placejacquesrouche",
+            "placejacquesdemy"
+        ]
+    },
+    {
+        "key": "routedauteuilauxlacs",
+        "match": null,
+        "sims": [
+            "ruedauteuil",
+            "ruedupreauxclercs",
+            "ruedhauteville"
+        ]
+    },
+    {
+        "key": "avenuedesalouettes",
+        "match": null,
+        "sims": [
+            "ruedesalouettes",
+            "avenuedeschalets",
+            "avenuedesalonique"
+        ]
+    },
+    {
+        "key": "souterrainvillette",
+        "match": null,
+        "sims": [
+            "ruederomainville",
+            "rueriblette",
+            "boulevarddelavillette"
+        ]
+    },
+    {
+        "key": "avenuedumahatmagandhi",
+        "match": null,
+        "sims": [
+            "avenuedemazagran",
+            "avenuedumarechalmaunoury",
+            "avenuedumarechalgallieni"
+        ]
+    },
+    {
+        "key": "routedespins",
+        "match": null,
+        "sims": [
+            "ruedesapennins",
+            "ruedesvignes",
+            "ruedesursins"
+        ]
+    },
+    {
+        "key": "impassedombasle",
+        "match": 0,
+        "sims": [
+            "passagedombasle",
+            "impassepoule",
+            "impassegomboust"
+        ]
+    },
+    {
+        "key": "placepierreriboulet",
+        "match": null,
+        "sims": [
+            "placepierrebrisson",
+            "placepierrelafue",
+            "placepierredux"
+        ]
+    },
+    {
+        "key": "routedauphine",
+        "match": null,
+        "sims": [
+            "ruedauphine",
+            "ruedupin",
+            "ruedurhin"
+        ]
+    },
+    {
+        "key": "esplanadebernardduperier",
+        "match": null,
+        "sims": [
+            "esplanadehenridefrance",
+            "placebernardhalpern",
+            "placebernardlazare"
+        ]
+    },
+    {
+        "key": "routenouvelle",
+        "match": null,
+        "sims": [
+            "ruebenouville",
+            "ruenollet",
+            "ruepernelle"
+        ]
+    },
+    {
+        "key": "souterrainpontneuf",
+        "match": null,
+        "sims": [
+            "portedupontneuf",
+            "pontneuf",
+            "rueramponeau"
+        ]
+    },
+    {
+        "key": "routedeslacsamadrid",
+        "match": null,
+        "sims": [
+            "ruedemadrid",
+            "routedelapyramide",
+            "ruedelasaida"
+        ]
+    },
+    {
+        "key": "routedesmoulins",
+        "match": null,
+        "sims": [
+            "ruedesmoulins",
+            "ruedesmoines",
+            "ruedesgrandsmoulins"
+        ]
+    },
+    {
+        "key": "routedelalonguequeue",
+        "match": null,
+        "sims": [
+            "ruedelajonquiere",
+            "ruedelaroquette",
+            "ruedelalingerie"
+        ]
+    },
+    {
+        "key": "souterrainclichy",
+        "match": null,
+        "sims": [
+            "boulevarddeclichy"
+        ]
+    },
+    {
+        "key": "souterraincoquilliere",
+        "match": null,
+        "sims": [
+            "ruecoquilliere"
+        ]
+    },
+    {
+        "key": "rueduhuitmai1945",
+        "match": 0,
+        "sims": [
+            "ruedu8mai1945",
+            "ruedumail",
+            "ruedumaine"
+        ]
+    },
+    {
+        "key": "carrefourduboutdeslacs",
+        "match": null,
+        "sims": [
+            "carrefourdestheatres",
+            "carrefourdelodeon",
+            "carrefourdelacroixrouge"
+        ]
+    },
+    {
+        "key": "routedesbarrieres",
+        "match": null,
+        "sims": [
+            "ruedesbarres",
+            "ruedesplatrieres",
+            "ruedesmarronniers"
+        ]
+    },
+    {
+        "key": "belvederewillyronis",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "placedelalaicite",
+        "match": null,
+        "sims": [
+            "placedelalma",
+            "placedebolivie",
+            "placedelabastille"
+        ]
+    },
+    {
+        "key": "placemarekedelman",
+        "match": null,
+        "sims": [
+            "placemarcelcerdan",
+            "placedelalma",
+            "placemarcelpaul"
+        ]
+    },
+    {
+        "key": "alleejacquesderrida",
+        "match": null,
+        "sims": [
+            "alleesjacquesbrel",
+            "placejacquesdebubridel",
+            "alleedesjustesdefrance"
+        ]
+    },
+    {
+        "key": "placedesmessageriesdelest",
+        "match": null,
+        "sims": [
+            "ruedesmessageries",
+            "placedessaussaies",
+            "placedesdroitsdelenfant"
+        ]
+    },
+    {
+        "key": "echangeurchapelle",
+        "match": null,
+        "sims": [
+            "ruehermannlachapelle",
+            "avenuedelachapelle",
+            "citedelachapelle"
+        ]
+    },
+    {
+        "key": "chemindelacroixcatelan",
+        "match": null,
+        "sims": [
+            "ruedelacroixmoreau",
+            "ruedelacroixfaubin"
+        ]
+    },
+    {
+        "key": "routedereuilly",
+        "match": null,
+        "sims": [
+            "ruedereuilly",
+            "portedeneuilly",
+            "ruedesully"
+        ]
+    },
+    {
+        "key": "placedugeneraltessierdemarguerittes",
+        "match": 0,
+        "sims": [
+            "placedugeneralteissierdemarguerittes",
+            "avenuedugeneralmarguerite",
+            "placedugeneralbeuret"
+        ]
+    },
+    {
+        "key": "autoroutea4",
+        "match": null,
+        "sims": [
+            "autoroutea4(france)",
+            "autoroutea13(france)",
+            "ruetrousseau"
+        ]
+    },
+    {
+        "key": "boulevardmaillot",
+        "match": null,
+        "sims": [
+            "boulevardmurat",
+            "boulevarddavout",
+            "boulevardcarnot"
+        ]
+    },
+    {
+        "key": "alleedesbuttes",
+        "match": null,
+        "sims": [
+            "alleedesmauves",
+            "alleedeseiders",
+            "alleedescygnes"
+        ]
+    },
+    {
+        "key": "routebrulee",
+        "match": null,
+        "sims": [
+            "ruebruller",
+            "ruebreve",
+            "ruebrunel"
+        ]
+    },
+    {
+        "key": "alleearthurrimbaud",
+        "match": null,
+        "sims": [
+            "villarimbaud",
+            "alleedariusmilhaud",
+            "alleecharlotteperriand"
+        ]
+    },
+    {
+        "key": "routedupointdujourabagatelle",
+        "match": null,
+        "sims": [
+            "routedufortdegravelle",
+            "ruedumontdurville"
+        ]
+    },
+    {
+        "key": "alleesaintdenis",
+        "match": null,
+        "sims": [
+            "galeriesaintdenis",
+            "ruesaintdenis",
+            "alleemaintenon"
+        ]
+    },
+    {
+        "key": "rueeugenefreyssinet",
+        "match": null,
+        "sims": [
+            "rueeugenereisz",
+            "ruedugeneralestienne",
+            "ruefreycinet"
+        ]
+    },
+    {
+        "key": "alleejosephrecamier",
+        "match": null,
+        "sims": [
+            "avenuejosephbedier",
+            "ruejosephgranier",
+            "ruejosephchailley"
+        ]
+    },
+    {
+        "key": "routedelaterrasse",
+        "match": null,
+        "sims": [
+            "ruedelaterrasse",
+            "rueclaudeterrasse",
+            "ruedelatran"
+        ]
+    },
+    {
+        "key": "alleegeorgesbesse",
+        "match": null,
+        "sims": [
+            "alleegeorgesrecipon",
+            "avenuegeorgesbernanos",
+            "squaregeorgeslesage"
+        ]
+    },
+    {
+        "key": "terrassemodigliani",
+        "match": null,
+        "sims": [
+            "ruemodigliani",
+            "impassemolin"
+        ]
+    },
+    {
+        "key": "placeduvingtcinqaout1944",
+        "match": 0,
+        "sims": [
+            "placedu25aout1944",
+            "placeduvingtdeuxnovembre1943"
+        ]
+    },
+    {
+        "key": "avenuerogercahen",
+        "match": null,
+        "sims": [
+            "avenuerobertschuman",
+            "avenuehoche",
+            "avenuerachel"
+        ]
+    },
+    {
+        "key": "routedestribunes",
+        "match": null,
+        "sims": [
+            "ruedestroisbornes",
+            "ruedesternes",
+            "ruedesgatines"
+        ]
+    },
+    {
+        "key": "echangeuritalie",
+        "match": null,
+        "sims": [
+            "avenueditalie",
+            "ruechangarnier"
+        ]
+    },
+    {
+        "key": "echangeursaintcloud",
+        "match": null,
+        "sims": [
+            "avenuedesaintcloud",
+            "coursaintlouis",
+            "esplanadesaintlouis"
+        ]
+    },
+    {
+        "key": "alleedelesperance",
+        "match": null,
+        "sims": [
+            "ruedelesperance",
+            "alleedelagarance",
+            "alleedesjustesdefrance"
+        ]
+    },
+    {
+        "key": "avenuedulac",
+        "match": null,
+        "sims": [
+            "avenueducoq",
+            "avenuedubelair",
+            "avenuedeylau"
+        ]
+    },
+    {
+        "key": "routedelabrasserie",
+        "match": null,
+        "sims": [
+            "ruedelasteyrie",
+            "ruedelafraternite",
+            "routedelapyramide"
+        ]
+    },
+    {
+        "key": "routedeletang",
+        "match": null,
+        "sims": [
+            "ruedetanger",
+            "ruedelatran",
+            "ruedelevangile"
+        ]
+    },
+    {
+        "key": "ruedugeneraldeboissieu",
+        "match": 0,
+        "sims": [
+            "ruedugeneralalaindeboissieu",
+            "ruedugeneralblaise",
+            "ruedugeneralestienne"
+        ]
+    },
+    {
+        "key": "promenadeclaudelevistrauss",
+        "match": null,
+        "sims": [
+            "promenadejulesisaac",
+            "promenaderolandlesaffre",
+            "promenadeclairelacombe"
+        ]
+    },
+    {
+        "key": "passagerambuteau",
+        "match": null,
+        "sims": [
+            "passagerimbaut",
+            "passageputeaux",
+            "passageramey"
+        ]
+    },
+    {
+        "key": "souterrainconcorde",
+        "match": null,
+        "sims": [
+            "portdelaconcorde"
+        ]
+    },
+    {
+        "key": "routedelaportedessablonsalaportemaillot",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "placesergepoliakoff",
+        "match": null,
+        "sims": [
+            "placegeorgespompidou",
+            "placepierrelazareff",
+            "placepierrelafue"
+        ]
+    },
+    {
+        "key": "placegracemurrayhopper",
+        "match": null,
+        "sims": [
+            "placedeleurope"
+        ]
+    },
+    {
+        "key": "placejuliettedrouet",
+        "match": null,
+        "sims": [
+            "ruejuliettedodu",
+            "placepierrelaroque",
+            "placejacquesrouche"
+        ]
+    },
+    {
+        "key": "pontpetitpontcardinallustiger",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "ruechanaorloff",
+        "match": null,
+        "sims": [
+            "ruecharlot",
+            "ruechoron",
+            "ruecantagrel"
+        ]
+    },
+    {
+        "key": "esplanademaxguedj",
+        "match": null,
+        "sims": [
+            "esplanadeclaudeluter",
+            "esplanadesaintlouis",
+            "esplanaderogerlinet"
+        ]
+    },
+    {
+        "key": "carrefourdelapyramide",
+        "match": null,
+        "sims": [
+            "routedelapyramide",
+            "carrefourdelodeon",
+            "carrefourdelacroixrouge"
+        ]
+    },
+    {
+        "key": "alleeprofesseurjeanbernard",
+        "match": 0,
+        "sims": [
+            "alleeduprofesseurjeanbernard",
+            "avenueduprofesseurandrelemierre"
+        ]
+    },
+    {
+        "key": "echangeurissy",
+        "match": null,
+        "sims": [
+            "ruedesdechargeurs"
+        ]
+    },
+    {
+        "key": "routesaintlouis",
+        "match": null,
+        "sims": [
+            "pontsaintlouis",
+            "coursaintlouis",
+            "ruesaintluc"
+        ]
+    },
+    {
+        "key": "villapatriceboudard",
+        "match": 0,
+        "sims": [
+            "villapatriceboudart",
+            "villajeangodard",
+            "villarimbaud"
+        ]
+    },
+    {
+        "key": "souterrainausterlitz",
+        "match": null,
+        "sims": [
+            "quaidausterlitz",
+            "portdausterlitz",
+            "pontdausterlitz"
+        ]
+    },
+    {
+        "key": "routedespelousesmarigny",
+        "match": null,
+        "sims": [
+            "ruedeseclusessaintmartin",
+            "ruedeslonguesraies",
+            "ruedelouvain"
+        ]
+    },
+    {
+        "key": "routeduchampdentrainement",
+        "match": null,
+        "sims": [
+            "rueducapitainemenard",
+            "rueducapitainemadon",
+            "rueduchampdelalouette"
+        ]
+    },
+    {
+        "key": "ruecardinalmercier",
+        "match": 0,
+        "sims": [
+            "rueducardinalmercier",
+            "ruecardinale",
+            "rueducardinallemoine"
+        ]
+    },
+    {
+        "key": "carrefourdenorvege",
+        "match": null,
+        "sims": [
+            "carrefourdelodeon",
+            "carrefourdestheatres",
+            "carrefourdelacroixrouge"
+        ]
+    },
+    {
+        "key": "promenadeclaudeestier",
+        "match": null,
+        "sims": [
+            "promenadecleewsvellay",
+            "promenadeplantee",
+            "promenadedorabruder"
+        ]
+    },
+    {
+        "key": "terrassedesnegociants",
+        "match": null,
+        "sims": [
+            "impassedespeintres",
+            "ruedesinnocents",
+            "impassedescrins"
+        ]
+    },
+    {
+        "key": "courderome",
+        "match": null,
+        "sims": [
+            "courdesfermes",
+            "courvendome",
+            "courderohan"
+        ]
+    },
+    {
+        "key": "routedelaportenoire",
+        "match": null,
+        "sims": [
+            "ruedeloratoire",
+            "ruedelarosiere",
+            "ruedelaportedissy"
+        ]
+    },
+    {
+        "key": "avenuemichal",
+        "match": null,
+        "sims": [
+            "ruemichal",
+            "avenuerachel",
+            "avenueemiledeschanel"
+        ]
+    },
+    {
+        "key": "impassegrisel",
+        "match": null,
+        "sims": [
+            "impassegros",
+            "impassereille",
+            "impasseracine"
+        ]
+    },
+    {
+        "key": "placedubataillonfrancaisdelo.n.u.encoree",
+        "match": 0,
+        "sims": [
+            "placedubataillonfrancaisdelonuencoree"
+        ]
+    },
+    {
+        "key": "routedugrandmarechal",
+        "match": null,
+        "sims": [
+            "rueducapitainemarchal",
+            "rueducommandantmarchand",
+            "ruedumarechalharispe"
+        ]
+    },
+    {
+        "key": "routedesmerisiers",
+        "match": null,
+        "sims": [
+            "ruedesmariniers",
+            "ruedesrosiers",
+            "ruedesmuriers"
+        ]
+    },
+    {
+        "key": "passagebrunoy",
+        "match": null,
+        "sims": [
+            "passagebrulon",
+            "passagebrady",
+            "passageraguinot"
+        ]
+    },
+    {
+        "key": "alleeducapitainedronne",
+        "match": null,
+        "sims": [
+            "rueducapitainemadon",
+            "rueducapitainetarron",
+            "rueducapitainescott"
+        ]
+    },
+    {
+        "key": "laportejaune",
+        "match": null,
+        "sims": [
+            "portejaune",
+            "placedeportauprince",
+            "portdelatournelle"
+        ]
+    },
+    {
+        "key": "souterrainetoile",
+        "match": null,
+        "sims": [
+            "coursainteloi"
+        ]
+    },
+    {
+        "key": "impassedelenfantjesus",
+        "match": null,
+        "sims": [
+            "impassedelasante",
+            "impassedelaconfiance",
+            "impassedelepine"
+        ]
+    },
+    {
+        "key": "avenuedarcel",
+        "match": null,
+        "sims": [
+            "avenuerachel",
+            "avenuemarceau",
+            "avenuegabriel"
+        ]
+    },
+    {
+        "key": "routedelamenagerie",
+        "match": null,
+        "sims": [
+            "ruedelalingerie",
+            "ruedelamare",
+            "ruedelamonnaie"
+        ]
+    },
+    {
+        "key": "impasserichard",
+        "match": null,
+        "sims": [
+            "impasseerard",
+            "impassegrimaud",
+            "impassechandon"
+        ]
+    },
+    {
+        "key": "rondpointdubleuetdefrance",
+        "match": null,
+        "sims": [
+            "rondpointdupontmirabeau"
+        ]
+    },
+    {
+        "key": "ruemariehelenelefaucheux",
+        "match": null,
+        "sims": [
+            "ruemadeleinereberioux",
+            "ruemauriceberteaux",
+            "ruecarrierbelleuse"
+        ]
+    },
+    {
+        "key": "placehubertcurien",
+        "match": null,
+        "sims": [
+            "placedutertre",
+            "placealbertcohen",
+            "placehebert"
+        ]
+    },
+    {
+        "key": "esplanadeandrechamson",
+        "match": null,
+        "sims": [
+            "esplanadeandretollet",
+            "placeandremasson",
+            "esplanadedugeneralcasso"
+        ]
+    },
+    {
+        "key": "routedupointdujourasuresnes",
+        "match": null,
+        "sims": [
+            "ruedupontdesloges",
+            "pontdesuresnes",
+            "ruedudocteurlaurent"
+        ]
+    },
+    {
+        "key": "alleeduborddeleau",
+        "match": null,
+        "sims": [
+            "alleedubrindeau",
+            "galeriedorleans",
+            "hameauboileau"
+        ]
+    },
+    {
+        "key": "souterrainsaintouen",
+        "match": null,
+        "sims": [
+            "avenuedesaintouen",
+            "coursaintlouis"
+        ]
+    },
+    {
+        "key": "routedelabelleetoile",
+        "match": null,
+        "sims": [
+            "ruedeletoile",
+            "ruedebelleville",
+            "ruedelabbegillet"
+        ]
+    },
+    {
+        "key": "ruedetahiti",
+        "match": null,
+        "sims": [
+            "ruedetaiti",
+            "rueduretrait",
+            "ruedetraktir"
+        ]
+    },
+    {
+        "key": "routeaimable",
+        "match": null,
+        "sims": [
+            "ruedaumale",
+            "ruerampal",
+            "ruenationale"
+        ]
+    },
+    {
+        "key": "alleedelongchamp",
+        "match": null,
+        "sims": [
+            "villadelongchamp",
+            "ruedelongchamp",
+            "ruedubouquetdelongchamp"
+        ]
+    },
+    {
+        "key": "routedelongchampauboutdeslacs",
+        "match": null,
+        "sims": [
+            "ruedelongchamp"
+        ]
+    },
+    {
+        "key": "routedelaferme",
+        "match": null,
+        "sims": [
+            "routedelapyramide",
+            "ruedelaperle",
+            "ruedeparme"
+        ]
+    },
+    {
+        "key": "routesablonneuse",
+        "match": null,
+        "sims": [
+            "ruesalneuve",
+            "ruedessablons",
+            "ruesalomondecaus"
+        ]
+    },
+    {
+        "key": "chemindesreservoirs",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "souterrainbergerest",
+        "match": null,
+        "sims": [
+            "rueschutzenberger",
+            "porteberger",
+            "citebergere"
+        ]
+    },
+    {
+        "key": "chemindupavillondarmenonville",
+        "match": null,
+        "sims": [
+            "cheminduparcdecharonne",
+            "ruedarmenonville"
+        ]
+    },
+    {
+        "key": "ruefanny",
+        "match": null,
+        "sims": [
+            "ruemanin",
+            "ruefagon",
+            "ruegandon"
+        ]
+    },
+    {
+        "key": "alleepaulineleon",
+        "match": null,
+        "sims": [
+            "alleemaintenon",
+            "alleepauldeschanel",
+            "alleeandrebreton"
+        ]
+    },
+    {
+        "key": "placedanielifflaosiris",
+        "match": null,
+        "sims": [
+            "placedelabourse",
+            "placedanvers",
+            "placedesantilles"
+        ]
+    },
+    {
+        "key": "chemindelabbaye",
+        "match": null,
+        "sims": [
+            "ruedelabbaye"
+        ]
+    },
+    {
+        "key": "souterrainvangogh",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "carrefourdugeneraljacquesparisdebollardiere",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "rondpointsaintcharles",
+        "match": null,
+        "sims": [
+            "ruesaintcharles",
+            "villasaintcharles",
+            "placesaintcharles"
+        ]
+    },
+    {
+        "key": "citenegrier",
+        "match": null,
+        "sims": [
+            "citegriset",
+            "citelemercier",
+            "citeriverin"
+        ]
+    },
+    {
+        "key": "avenuedejoinville",
+        "match": null,
+        "sims": [
+            "ruedejoinville",
+            "avenuedetourville",
+            "avenuedelecoledejoinville"
+        ]
+    },
+    {
+        "key": "boulevardhyppolytemarques",
+        "match": null,
+        "sims": [
+            "boulevardvoltaire",
+            "boulevardmontmartre",
+            "boulevardedgarquinet"
+        ]
+    },
+    {
+        "key": "placedessourcesdunord",
+        "match": null,
+        "sims": [
+            "placedesgres",
+            "placejulessenard",
+            "placejulesrenard"
+        ]
+    },
+    {
+        "key": "chemindesuresnesabagatelle",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "placedesquarantequatreenfantsdizieu",
+        "match": 0,
+        "sims": [
+            "placedes44enfantsdizieu"
+        ]
+    },
+    {
+        "key": "souterraintolbiac",
+        "match": null,
+        "sims": [
+            "coursaintnicolas",
+            "portdetolbiac",
+            "pontdetolbiac"
+        ]
+    },
+    {
+        "key": "chemindesvieuxchenes",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "alleedelareinemarguerite",
+        "match": null,
+        "sims": [
+            "avenuedugeneralmarguerite",
+            "placedelareineastrid",
+            "alleedjangoreinhardt"
+        ]
+    },
+    {
+        "key": "routedesevresaneuilly",
+        "match": null,
+        "sims": [
+            "ruedereuilly",
+            "ruedeverneuil",
+            "ruedesevres"
+        ]
+    },
+    {
+        "key": "souterrainbranly",
+        "match": null,
+        "sims": [
+            "quaibranly"
+        ]
+    },
+    {
+        "key": "souterrainchamperret",
+        "match": null,
+        "sims": [
+            "coursaintpierre"
+        ]
+    },
+    {
+        "key": "boulevarddugeneraljeansimon",
+        "match": null,
+        "sims": [
+            "boulevarddugeneraldarmeejeansimon",
+            "boulevarddugeneralmartialvalin",
+            "boulevarddereims"
+        ]
+    },
+    {
+        "key": "promenadedaustralie",
+        "match": null,
+        "sims": [
+            "promenadedorabruder",
+            "promenademauricecareme",
+            "promenademauriceboitel"
+        ]
+    },
+    {
+        "key": "peristyledechartres",
+        "match": 0,
+        "sims": [
+            "galeriedechartres",
+            "ruedechartres",
+            "ruedeschantres"
+        ]
+    },
+    {
+        "key": "placeghislainedupontclaudeverloncamillelepage",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "placemikebrant",
+        "match": null,
+        "sims": [
+            "placemadeleinebraun",
+            "placehebert",
+            "placemoniqueantoine"
+        ]
+    },
+    {
+        "key": "echangeurmaillot",
+        "match": null,
+        "sims": [
+            "ruegagergabillot",
+            "ruedechaillot",
+            "ruecharlot"
+        ]
+    },
+    {
+        "key": "ruemondoville",
+        "match": 0,
+        "sims": [
+            "ruemondonville",
+            "ruedumontdurville",
+            "ruedemondovi"
+        ]
+    },
+    {
+        "key": "avenuefranklind.roosevelt",
+        "match": 0,
+        "sims": [
+            "avenuefranklindroosevelt",
+            "avenuearmandrousseau",
+            "avenuefrancorusse"
+        ]
+    },
+    {
+        "key": "alleedesquatrecarrefours",
+        "match": null,
+        "sims": [
+            "alleedesvergers",
+            "squaredescardeurs",
+            "alleedesrefuzniks"
+        ]
+    },
+    {
+        "key": "routedelagerbe",
+        "match": null,
+        "sims": [
+            "ruedelagare",
+            "ruedelaperle",
+            "ruedelalingerie"
+        ]
+    },
+    {
+        "key": "alleedeslapins",
+        "match": null,
+        "sims": [
+            "alleedesmauves",
+            "alleedeseiders",
+            "alleedescygnes"
+        ]
+    },
+    {
+        "key": "esplanadeleohamon",
+        "match": null,
+        "sims": [
+            "esplanadereneelebas",
+            "esplanadesaintlouis",
+            "esplanaderogerlinet"
+        ]
+    },
+    {
+        "key": "routedeletoile",
+        "match": null,
+        "sims": [
+            "ruedeletoile",
+            "ruedeloise",
+            "ruedelille"
+        ]
+    },
+    {
+        "key": "routedeslacs",
+        "match": null,
+        "sims": [
+            "ruedeslilas",
+            "ruedescos",
+            "ruedeslyanes"
+        ]
+    },
+    {
+        "key": "alleedespoteaux",
+        "match": null,
+        "sims": [
+            "avenuedespreaux",
+            "ruedesorteaux",
+            "alleedesmauves"
+        ]
+    },
+    {
+        "key": "alleecharlesbrennus",
+        "match": null,
+        "sims": [
+            "alleeandrebreton",
+            "alleeverhaeren",
+            "villacharlesbenard"
+        ]
+    },
+    {
+        "key": "alleeericchabeur",
+        "match": null,
+        "sims": [
+            "alleeverhaeren",
+            "alleemichelberger",
+            "alleeleonbronchart"
+        ]
+    },
+    {
+        "key": "alleeclaudecahun",
+        "match": 0,
+        "sims": [
+            "alleeclaudecahunmarcelmoore",
+            "rueclaudechahu",
+            "alleepauldeschanel"
+        ]
+    },
+    {
+        "key": "courderome8eme",
+        "match": null,
+        "sims": [
+            "courdesfermes",
+            "courvendome",
+            "courderohan"
+        ]
+    },
+    {
+        "key": "routedeschenes",
+        "match": null,
+        "sims": [
+            "ruedescheminets",
+            "ruedeschantres",
+            "ruedescevennes"
+        ]
+    },
+    {
+        "key": "ruejaicdomergue",
+        "match": null,
+        "sims": [
+            "ruedeprague",
+            "ruefaidherbe",
+            "ruedesargues"
+        ]
+    },
+    {
+        "key": "squarehenrybataille",
+        "match": 0,
+        "sims": [
+            "squarehenribataille",
+            "squarehenrypate",
+            "squarepetrelle"
+        ]
+    },
+    {
+        "key": "avenuedelagrotte",
+        "match": null,
+        "sims": [
+            "avenuedeflandre",
+            "avenuedesarts",
+            "avenuedelamottepicquet"
+        ]
+    },
+    {
+        "key": "ruerecamier",
+        "match": null,
+        "sims": [
+            "ruereaumur",
+            "ruepradier",
+            "ruedaumier"
+        ]
+    },
+    {
+        "key": "placedesmartyrsdelaresistance",
+        "match": 1,
+        "sims": [
+            "placedelaresistance",
+            "placedesmartyrsdelaresistancedelaportedesevres",
+            "placedelamadeleine"
+        ]
+    },
+    {
+        "key": "promenadejacqueshebertot",
+        "match": null,
+        "sims": [
+            "promenadejacquescanetti",
+            "ruejacquesibert",
+            "promenademauriceboitel"
+        ]
+    },
+    {
+        "key": "avenueedouardpetit",
+        "match": null,
+        "sims": [
+            "avenueedouardvaillant",
+            "avenuedutuit",
+            "avenueedwardtuck"
+        ]
+    },
+    {
+        "key": "ruedesdocteursdejerine",
+        "match": 0,
+        "sims": [
+            "ruedesdocteursaugustaetjulesdejerine",
+            "ruedudocteurlecene",
+            "ruedudocteurgermainsee"
+        ]
+    },
+    {
+        "key": "routedumoulinrouge",
+        "match": null,
+        "sims": [
+            "ruedumoulinet",
+            "ruedumoulinvert",
+            "ruedumoulinjoly"
+        ]
+    },
+    {
+        "key": "alleedemadridaneuilly",
+        "match": null,
+        "sims": [
+            "avenuedeneuilly",
+            "alleemariacallas",
+            "alleedelagarance"
+        ]
+    },
+    {
+        "key": "peristyledejoinville",
+        "match": null,
+        "sims": [
+            "placedejoinville",
+            "ruedejoinville",
+            "impassedejoinville"
+        ]
+    },
+    {
+        "key": "souterrainbergerouest",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "placeduonzenovembre1918",
+        "match": 0,
+        "sims": [
+            "placedu11novembre1918",
+            "placedu8novembre1942",
+            "placeduvingtdeuxnovembre1943"
+        ]
+    },
+    {
+        "key": "jardinjaneavril",
+        "match": null,
+        "sims": []
+    },
+    {
+        "key": "alleeyvetteguilbert",
+        "match": null,
+        "sims": [
+            "alleecoletteheilbronner",
+            "rueherveguibert",
+            "alleeverte"
+        ]
+    },
+    {
+        "key": "passagemarierogissart",
+        "match": null,
+        "sims": [
+            "passagebarrois",
+            "passagemarignan",
+            "passagedesarts"
+        ]
+    },
+    {
+        "key": "alleeclaudemontal",
+        "match": null,
+        "sims": [
+            "villaclaudemonet",
+            "alleenicolefontaine",
+            "alleemauricebaumont"
+        ]
+    },
+    {
+        "key": "routedeboulogneapassy",
+        "match": null,
+        "sims": [
+            "portedeboulogne",
+            "ruedebourgogne",
+            "rueduboisdeboulogne"
+        ]
+    },
+    {
+        "key": "bassindelarsenal",
+        "match": null,
+        "sims": [
+            "ruedelarsenal",
+            "passagedelareale",
+            "quaidelaseine"
+        ]
+    },
+    {
+        "key": "impasseducommerce",
+        "match": null,
+        "sims": [
+            "placeducommerce",
+            "impasseducure",
+            "impassedumaroc"
+        ]
+    }
+]
